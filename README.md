@@ -1,51 +1,67 @@
-# Fundamentos de Desarrollo Web
-## Resumen del Curso
-En este curso con duración de 1 hora introduce a estudiantes de secundaria a la creación de sitios web sencillos con HTML y CSS. **¡¡No requiere instalaciones ni configuraciones complejas!!** Solo abre tu navegador web y disfruta del curso.
+# 🌐 Fundamentos de Desarrollo Web
 
-- **Duración total**: ~60 minutos<br>
-- **Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación.<br>
-- **Prerrequisitos**: Ninguno<br>
-**Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)<br>
-- **📂
-Repositorio de código fuente**: (https://github.com/WebWarriors-LearningSessions/webdev-course-webwarriors.git)
-## Secuencia de la lección
-### Lección 1: ¿Qué es el desarrollo web y cómo funciona internet? (10 minutos) <br> 
-**Descripción**: Una explicación sencilla de qué es un sitio web y cómo viaja la información desde un servidor hasta el navegador.<br> <br>
-**Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link1) - **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS). - **Empieza a programar**: [Open CodePen](https://codepen.io/pen/?template=your-starter)
+¡Bienvenido al repositorio oficial del curso **Fundamentos de Desarrollo Web**! Este proyecto ha sido desarrollado como parte del curso de **Aplicaciones Web (1ASI0730)** de la Universidad Peruana de Ciencias Aplicadas (UPC), periodo 202610.
 
-**¡No necesitas registrarte!**
-### Lección 2: Tus primeros bloques de construcción: Estructura HTML (10 minutos) <br>
-- **Descripción**: El esqueleto obligatorio de cualquier página web: las etiquetas esenciales (<html>, <head>, <body>). 
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2) - **Consejos clave**: Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`. - **Práctica**: [Clic para programar](https://codepen.io/your-pen-id)
+---
 
+## 💡 Resumen del Curso
 
-### Lección 3: Dándole contenido a la página: Textos, Imágenes y Enlaces (12 minutos)
-- **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3) 
-- **Consejos clave**: Usa las etiquetas `<ul>`, `<img>`, `<a>`. 
-- **Práctica**: [Clic para programar](https://jsfiddle.net/your-fiddle-id)
+Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sitios web sencillos con HTML y CSS.
 
-**¡Comienza al instante!**
-### Lección 4: Introducción a CSS: ¡Dándole color y estilo! (10 minutos) 
-- **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños. 
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4) 
-- **Consejos clave**: Vincular CSS, usar selectores como `body { background-color: blue; }`. - **Práctica**: [Aplicar estilo con un clic](https://codepen.io/your-css-pen)
+> ⚠️ **¡No requiere instalaciones ni configuraciones complejas!** Solo abre tu navegador web y disfruta del curso.
 
-### Lección 5: Diseño y Bordes: Haciendo que todo luzca ordenado (12 minutos) 
-- **Descripción**: Combinar HTML y CSS para crear una página de perfil personal. 
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5) 
-- **Consejos clave**: Aplicar estilos y depurar errores. - **Proyecto Final**: [Crea tu Perfil](https://replit.com/@your-final-project)
+*   **⏱️ Duración total**: ~60 minutos
+*   **👥 Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación.
+*   **🎯 Prerrequisitos**: Ninguno
+*   **💻 Herramientas necesarias**: ¡Solo tu navegador web! (Chrome, Firefox, Safari, Edge)
+*   **📂 Repositorio de código fuente**: [GitHub - WebWarriors](https://github.com/WebWarriors-LearningSessions/webdev-course-webwarriors.git)
 
-### Lección 6: Errores comunes y consejos (10 minutos) 
-- **Descripción**: Mejores prácticas, errores comunes y dónde aprender más. 
-- **Enlace**: [Ver Lección](https://www.youtube.com/watch?v=example-link6) 
-- **Consejos Clave**: Valida el código, explora la Documentación Web de MDN. - **Comparte tu Trabajo**: [Envía tu Creación](https://forms.gle/your-form)
-**¡No es necesario registrarse!**
-**¡Guarda y comparte!**
+---
 
-### Lección 7: Creación final de la página web. Es tu hora de brillar! (15 minutos)
+## 📚 Secuencia de Lecciones
 
-### Todas las Actividades Prácticas
+### 🎬 Lección 1: ¿Qué es el desarrollo web y cómo funciona internet? (10 min)
+*   **Descripción**: Una explicación sencilla de qué es un sitio web y cómo viaja la información desde un servidor hasta el navegador.
+*   **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link1)
+*   **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
+*   **Práctica**: [Open CodePen](https://codepen.io/pen/?template=your-starter)
+
+### 🧱 Lección 2: Tus primeros bloques de construcción: Estructura HTML (10 min)
+*   **Descripción**: El esqueleto obligatorio de cualquier página web: las etiquetas esenciales (`<html>`, `<head>`, `<body>`).
+*   **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
+*   **Consejos clave**: Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`.
+*   **Práctica**: [Clic para programar](https://codepen.io/your-pen-id)
+
+### 🖼️ Lección 3: Dándole contenido a la página: Textos, Imágenes y Enlaces (12 min)
+*   **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
+*   **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
+*   **Consejos clave**: Usa las etiquetas `<ul>`, `<img>`, `<a>`.
+*   **Práctica**: [Clic para programar](https://jsfiddle.net/your-fiddle-id)
+
+### 🎨 Lección 4: Introducción a CSS: ¡Dándole color y estilo! (10 min)
+*   **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
+*   **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)
+*   **Consejos clave**: Vincular CSS, usar selectores como `body { background-color: blue; }`.
+*   **Práctica**: [Aplicar estilo con un clic](https://codepen.io/your-css-pen)
+
+### 📐 Lección 5: Diseño y Bordes (12 min)
+*   **Descripción**: Combinar HTML y CSS para crear una página de perfil personal.
+*   **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
+*   **Consejos clave**: Aplicar estilos y depurar errores.
+*   **Proyecto Final**: [Crea tu Perfil](https://replit.com/@your-final-project)
+
+### 🛠️ Lección 6: Errores comunes y consejos (10 min)
+*   **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
+*   **Enlace**: [Ver Lección](https://www.youtube.com/watch?v=example-link6)
+*   **Consejos Clave**: Valida el código, explora la Documentación Web de MDN.
+*   **Comparte tu Trabajo**: [Envía tu Creación](https://forms.gle/your-form)
+
+### 🚀 Lección 7: Creación final de la página web (15 min)
+*   ¡Es tu hora de brillar!
+
+---
+
+## 🛠️ Todas las Actividades Prácticas
 
 | Lección # | Actividad | Empezar a Programar |
 | :--- | :--- | :--- |
@@ -55,21 +71,23 @@ Repositorio de código fuente**: (https://github.com/WebWarriors-LearningSession
 | 4 | Estilo de la página | [CodePen](https://codepen.io/your-css-pen) |
 | 5 | Página de perfil | [Replit](https://replit.com/@your-final-project) |
 
-- **Cuestionario**: [Pon a prueba tus conocimientos](https://forms.gle/your-quiz)
-- **Compartir**: #WebDevBeginners
-**¡Gracias por completar el curso!** ---
-## 
+✨ **¡Gracias por completar el curso!** ✨
+🔗 **Cuestionario**: [Pon a prueba tus conocimientos](https://forms.gle/your-quiz)
+📱 **Compartir**: `#WebDevBeginners`
 
-Elaboración<br>
-Universidad Peruana de Ciencias Aplicadas <br>
-Carrera de Ingeniería de Software <br>
-Período 202610 <br>
-1ASI0730 Aplicaciones Web <br>
-NRC [12242] <br>
-**Nombre del equipo**: WebWarriors <br>
-**Líder del equipo**: Nicolas Eduardo Castro Solorza <br>
-**Integrantes del equipo**: 
-- Renzo Alejandro Bojórquez Bustinza
-- Leonardo Moises Cabrera Novoa
-- Sebastian Josue Cochachi Chagua
-- Sebastián Martin Pinedo Sánchez
+---
+
+## 🎓 Elaboración
+
+**Universidad Peruana de Ciencias Aplicadas (UPC)**
+**Carrera**: Ingeniería de Software
+**Curso**: 1ASI0730 Aplicaciones Web | **Período**: 202610
+**NRC**: 12242
+
+**Equipo: WebWarriors**
+*   **Líder**: Nicolas Eduardo Castro Solorza
+*   **Integrantes**:
+    *   Renzo Alejandro Bojórquez Bustinza
+    *   Leonardo Moises Cabrera Novoa
+    *   Sebastian Josue Cochachi Chagua
+    *   Sebastián Martin Pinedo Sánchez
