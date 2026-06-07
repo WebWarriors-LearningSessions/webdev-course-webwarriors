@@ -27,9 +27,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 *   **Práctica**: [Open CodePen](https://codepen.io/pen/?template=your-starter)
 
 ### 🧱 Lección 2: Tus primeros bloques de construcción: Estructura HTML (10 min)
-*   **Descripción**: El esqueleto obligatorio de cualquier página web: las etiquetas esenciales (`<html>`, `<head>`, `<body>`).
+*   **Descripción**: En esta lección, descubriremos la estructura HTML initial que toda página web posee, y aprenderemos para qué sirven sus herramientas: las etiquetas, el contenido y los atributos.
 *   **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
-*   **Consejos clave**: Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`.
+*   **Consejos clave**: Al abrir una etiqueta HTML, recuerda siempre cerrarla.
 *   **Práctica**: [Clic para programar](https://codepen.io/your-pen-id)
 
 ### 🖼️ Lección 3: Dándole contenido a la página: Textos, Imágenes y Enlaces (12 min)
@@ -51,10 +51,10 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 *   **Proyecto Final**: [Crea tu Perfil](https://replit.com/@your-final-project)
 
 ### 🛠️ Lección 6: Errores comunes y consejos (10 min)
-*   **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
+*   **Descripción**: En esta lección nos centraremos en corregir errores comunes de principantes y aplicar buenas prácticas para que nuestro código sea más entendible.
 *   **Enlace**: [Ver Lección](https://www.youtube.com/watch?v=example-link6)
-*   **Consejos Clave**: Valida el código, explora la Documentación Web de MDN.
-*   **Comparte tu Trabajo**: [Envía tu Creación](https://forms.gle/your-form)
+*   **Consejos Clave**: Revisa que los atributos y rutas estén correctamente escritos, y aplica indentación para exponer una jerarquía entre los elementos.
+*   **Práctica**: [Clic para programar](https://codepen.io/your-pen-id)
 
 ### 🚀 Lección 7: Creación final de la página web (15 min)
 *   ¡Es tu hora de brillar!
