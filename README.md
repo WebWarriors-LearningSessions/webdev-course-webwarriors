@@ -22,7 +22,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### 🎬 Lección 1: ¿Qué es el desarrollo web y cómo funciona internet? (10 min)
 *   **Descripción**: Una explicación sencilla de qué es un sitio web y cómo viaja la información desde un servidor hasta el navegador.
-*   **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link1)
+*   **Enlace**: [Ver la lección][(https://www.youtube.com/watch?v=example-link1)](https://youtu.be/OtydGWypG8k)
 *   **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
 *   **Práctica**: [Open CodePen](https://codepen.io/pen/?template=your-starter)
 
