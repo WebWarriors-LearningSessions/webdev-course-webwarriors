@@ -1,7 +1,7 @@
 # 🌐 Fundamentos de Desarrollo Web
 
-¡Bienvenido al repositorio oficial del curso **Fundamentos de Desarrollo Web**! Este proyecto ha sido desarrollado como parte del curso de **Aplicaciones Web (1ASI0730)** de la Universidad Peruana de Ciencias Aplicadas (UPC), periodo 202610.
-
+¡Bienvenidos al curso de Fundamentos de Desarrollo Web!
+En este curso se enseñará el lenguaje HTML y CSS de forma básica para estudiantes sin experiencia en programación y culminará con la creación de una página web personal. Disfruten del curso!
 ---
 
 ## 💡 Resumen del Curso
@@ -72,8 +72,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 | 5 | Página de perfil | [Replit](https://replit.com/@your-final-project) |
 
 ✨ **¡Gracias por completar el curso!** ✨
-🔗 **Cuestionario**: [Pon a prueba tus conocimientos](https://forms.gle/your-quiz)
-📱 **Compartir**: `#WebDevBeginners`
+
 
 ---
 
