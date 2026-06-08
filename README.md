@@ -14,7 +14,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 *   **👥 Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación.
 *   **🎯 Prerrequisitos**: Ninguno
 *   **💻 Herramientas necesarias**: ¡Solo tu navegador web! (Chrome, Firefox, Safari, Edge)
-*   **📂 Repositorio de código fuente**: [GitHub - WebWarriors](https://github.com/WebWarriors-LearningSessions/webdev-course-webwarriors.git)
+*   **📂 Repositorio de código fuente**: [GitHub Repository](https://github.com/WebWarriors-LearningSessions/webdev-course-webwarriors.git)
 
 ---
 
@@ -22,25 +22,25 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### 🎬 Lección 1: ¿Qué es el desarrollo web y cómo funciona internet? (10 min)
 *   **Descripción**: Una explicación sencilla de qué es un sitio web y cómo viaja la información desde un servidor hasta el navegador.
-*   **Enlace**: [Ver la lección][(https://www.youtube.com/watch?v=example-link1)](https://youtu.be/OtydGWypG8k)
+*   **Enlace**: [Ver la lección](https://youtu.be/OtydGWypG8k)
 *   **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
 *   **Práctica**: [Open CodePen](https://codepen.io/pen/?template=your-starter)
 
 ### 🧱 Lección 2: Tus primeros bloques de construcción: Estructura HTML (10 min)
 *   **Descripción**: En esta lección, descubriremos la estructura HTML initial que toda página web posee, y aprenderemos para qué sirven sus herramientas: las etiquetas, el contenido y los atributos.
-*   **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
+*   **Enlace**: [Ver la lección](https://youtu.be/TKKxc7KVRtw)
 *   **Consejos clave**: Al abrir una etiqueta HTML, recuerda siempre cerrarla.
 *   **Práctica**: [Clic para programar](https://codepen.io/your-pen-id)
 
 ### 🖼️ Lección 3: Dándole contenido a la página: Textos, Imágenes y Enlaces (12 min)
 *   **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
-*   **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
+*   **Enlace**: [Ver la lección](https://youtu.be/vKLyDr3T7bI)
 *   **Consejos clave**: Usa las etiquetas `<ul>`, `<img>`, `<a>`.
 *   **Práctica**: [Clic para programar](https://jsfiddle.net/your-fiddle-id)
 
 ### 🎨 Lección 4: Introducción a CSS: ¡Dándole color y estilo! (10 min)
 *   **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
-*   **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)
+*   **Enlace**: [Ver la lección](https://youtu.be/rtWYf4CT2-o)
 *   **Consejos clave**: Vincular CSS, usar selectores como `body { background-color: blue; }`.
 *   **Práctica**: [Aplicar estilo con un clic](https://codepen.io/your-css-pen)
 
@@ -52,7 +52,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### 🛠️ Lección 6: Errores comunes y consejos (10 min)
 *   **Descripción**: En esta lección nos centraremos en corregir errores comunes de principantes y aplicar buenas prácticas para que nuestro código sea más entendible.
-*   **Enlace**: [Ver Lección](https://www.youtube.com/watch?v=example-link6)
+*   **Enlace**: [Ver Lección](https://youtu.be/9XwJOAkguV4)
 *   **Consejos Clave**: Revisa que los atributos y rutas estén correctamente escritos, y aplica indentación para exponer una jerarquía entre los elementos.
 *   **Práctica**: [Clic para programar](https://codepen.io/your-pen-id)
 
