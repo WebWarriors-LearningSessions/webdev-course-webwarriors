@@ -46,7 +46,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### 📐 Lección 5: Diseño y Bordes (12 min)
 *   **Descripción**: Combinar HTML y CSS para crear una página de perfil personal.
-*   **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
+*   **Enlace**: [Ver la lección](https://youtu.be/IN5YS9MCooc)
 *   **Consejos clave**: Aplicar estilos y depurar errores.
 *   **Proyecto Final**: [Crea tu Perfil](https://replit.com/@your-final-project)
 
