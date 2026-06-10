@@ -27,10 +27,10 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 *   **Práctica**: [Open CodePen](https://codepen.io/pen/?template=your-starter)
 
 ### 🧱 Lección 2: Tus primeros bloques de construcción: Estructura HTML (10 min)
-*   **Descripción**: En esta lección, descubriremos la estructura HTML initial que toda página web posee, y aprenderemos para qué sirven sus herramientas: las etiquetas, el contenido y los atributos.
+*   **Descripción**: En esta lección, descubriremos la estructura HTML inicial que toda página web posee, y aprenderemos para qué sirven sus herramientas: las etiquetas, el contenido y los atributos.
 *   **Enlace**: [Ver la lección](https://youtu.be/TKKxc7KVRtw)
 *   **Consejos clave**: Al abrir una etiqueta HTML, recuerda siempre cerrarla.
-*   **Práctica**: [Clic para programar](https://codepen.io/your-pen-id)
+*   **Práctica**: [Clic para programar](https://codepen.io/pen/?template=your-starter)
 
 ### 🖼️ Lección 3: Dándole contenido a la página: Textos, Imágenes y Enlaces (12 min)
 *   **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
@@ -54,7 +54,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 *   **Descripción**: En esta lección nos centraremos en corregir errores comunes de principantes y aplicar buenas prácticas para que nuestro código sea más entendible.
 *   **Enlace**: [Ver Lección](https://youtu.be/9XwJOAkguV4)
 *   **Consejos Clave**: Revisa que los atributos y rutas estén correctamente escritos, y aplica indentación para exponer una jerarquía entre los elementos.
-*   **Práctica**: [Clic para programar](https://codepen.io/your-pen-id)
+*   **Práctica**: [Clic para programar](https://codepen.io/pen/?template=your-starter)
 
 ### 🚀 Lección 7: Creación final de la página web (15 min)
 *   ¡Es tu hora de brillar!
