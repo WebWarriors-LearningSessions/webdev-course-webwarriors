@@ -1,0 +1,11 @@
+/*Identifica los errores de este código y corrígelos. Además, aplica buenas prácticas donde convenga.*/
+body {
+  backgroud-color: blue;
+}
+
+.caja-azul {
+  pading: 20px;
+  background-color: white;
+  border-radius: 8px;
+  text-align: center;
+}
