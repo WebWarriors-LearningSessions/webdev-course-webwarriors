@@ -1,1 +1,28 @@
+h1 {
+  color: /* Escribe aquí el color del título */;
+}
 
+body {
+  background-color: /* Escribe aquí el color de fondo */;
+  font-family: /* Escribe aquí el tipo de letra */;
+}
+
+h2 {
+  color: /* Color del subtítulo */;
+}
+
+h3 {
+  color: /* Color de los encabezados de sección */;
+}
+
+p {
+  color: /* Color de los párrafos */;
+}
+
+ul {
+  color: /* Color de las listas */;
+}
+
+a {
+  color: /* Color de los enlaces */;
+}
