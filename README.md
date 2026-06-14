@@ -39,10 +39,10 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 *   **Práctica**: [Clic para programar](https://jsfiddle.net/your-fiddle-id)
 
 ### 🎨 Lección 4: Introducción a CSS: ¡Dándole color y estilo! (10 min)
-*   **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
+*   **Descripción**: Aprende a darle estilo a una página web utilizando CSS. Cambia colores, fuentes y personaliza distintos elementos de tu página.
 *   **Enlace**: [Ver la lección](https://youtu.be/rtWYf4CT2-o)
-*   **Consejos clave**: Vincular CSS, usar selectores como `body { background-color: blue; }`.
-*   **Práctica**: [Aplicar estilo con un clic](https://codepen.io/your-css-pen)
+*   **Consejos clave**: HTML crea el contenido y CSS se encarga de la apariencia. Utiliza selectores y propiedades como background-color, font-family y color.
+*   **Práctica**: [Aplicar estilo con un clic](https://codepen.io/pen/?template=your-starter)
 
 ### 📐 Lección 5: Diseño y Bordes (12 min)
 *   **Descripción**: Combinar HTML y CSS para crear una página de perfil personal.
