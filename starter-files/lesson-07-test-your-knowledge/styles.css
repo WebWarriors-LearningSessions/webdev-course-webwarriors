@@ -1,1 +1,62 @@
+body {
 
+  /* Escribe aquí el color de fondo de tu página */
+  background-color: ;
+
+  /* Escribe la fuente que prefieras */
+  font-family: ;
+}
+
+.card {
+
+  /* Color de fondo de la tarjeta */
+  background-color: ;
+
+  /* Ancho de la tarjeta */
+  width: ;
+
+  /* Margen para posicionar la tarjeta */
+  margin: ;
+
+  /* Espacio interno */
+  padding: ;
+
+  /* Alineación del contenido */
+  text-align: ;
+
+  /* Redondear esquinas */
+  border-radius: ;
+}
+
+img {
+
+  /* Tamaño de la imagen */
+  width: ;
+
+  /* Redondear esquinas de la imagen */
+  border-radius: ;
+}
+
+h1 {
+
+  /* Color del título principal */
+  color: ;
+}
+
+h3 {
+
+  /* Color del subtítulo */
+  color: ;
+}
+
+p {
+
+  /* Color de la descripción */
+  color: ;
+}
+
+a {
+
+  /* Color del enlace */
+  color: ;
+}
