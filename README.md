@@ -84,12 +84,13 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 ## 🎓 Elaboración
 
 **Universidad Peruana de Ciencias Aplicadas (UPC)**
-**Carrera**: Ingeniería de Software
-**Curso**: 1ASI0730 Aplicaciones Web | **Período**: 202610
-**NRC**: 12242
+* **Carrera**: Ingeniería de Software
+* **Curso**: 1ASI0730 Aplicaciones Web | **Período**: 202610
+* **NRC**: 12242
 
 **Equipo: WebWarriors**
-*   **Líder**: Nicolas Eduardo Castro Solorza
+*   **Líder**: 
+    * Nicolas Eduardo Castro Solorza
 *   **Integrantes**:
     *   Renzo Alejandro Bojórquez Bustinza
     *   Leonardo Moises Cabrera Novoa
