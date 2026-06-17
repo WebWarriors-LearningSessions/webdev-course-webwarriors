@@ -48,7 +48,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 *   **Descripción**: Combinar HTML y CSS para crear una página de perfil personal.
 *   **Enlace**: [Ver la lección](https://youtu.be/IN5YS9MCooc)
 *   **Consejos clave**: Aplicar estilos y depurar errores.
-*   **Proyecto Final**: [Crea tu Perfil](https://replit.com/@your-final-project)
+*   **Proyecto Final**: [Clic para programar](https://codepen.io/pen/?template=your-starter)
 
 ### 🛠️ Lección 6: Errores comunes y consejos (10 min)
 *   **Descripción**: En esta lección nos centraremos en corregir errores comunes de principantes y aplicar buenas prácticas para que nuestro código sea más entendible.
