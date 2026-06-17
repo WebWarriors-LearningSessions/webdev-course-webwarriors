@@ -14,7 +14,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 *   **👥 Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación.
 *   **🎯 Prerrequisitos**: Ninguno
 *   **💻 Herramientas necesarias**: ¡Solo tu navegador web! (Chrome, Firefox, Safari, Edge)
-*   **📂 Repositorio de código fuente**: [https://github.com/WebWarriors-LearningSessions/webdev-course-webwarriors.git](https://github.com/WebWarriors-LearningSessions/webdev-course-webwarriors.git)
+*   **📂 Repositorio de código fuente**: [https://shorturl.at/JCn2p](https://github.com/WebWarriors-LearningSessions/webdev-course-webwarriors.git)
 
 ---
 
