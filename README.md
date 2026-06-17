@@ -57,7 +57,10 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 *   **Práctica**: [Clic para programar](https://codepen.io/pen/?template=your-starter)
 
 ### 🚀 Lección 7: Creación final de la página web (15 min)
-*   ¡Es tu hora de brillar!
+* **Descripción**: Aplica los conceptos aprendidos de HTML y CSS creando una tarjeta web sencilla sobre un videojuego. Utiliza títulos, imágenes, párrafos, enlaces y estilos para personalizar tu página.
+* **Enlace**: [Ver la lección](https://youtu.be/T_TWMnxVpVE)
+* **Consejos clave**: HTML define la estructura de la página y CSS mejora su apariencia. Utiliza etiquetas como `h1`, `p`, `img` y propiedades como `background-color`, `color` y `border-radius`.
+* **Práctica**: [Crear una tarjeta web en CodePen](https://codepen.io/pen/?template=your-starter)
 
 ---
 
