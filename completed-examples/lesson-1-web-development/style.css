@@ -1,0 +1,105 @@
+/* Estilos generales para toda la página */
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f4f7f6;
+  color: #333;
+}
+
+/* 1. Estilos del Encabezado (Menú) */
+header {
+  background-color: #2c3e50;
+  color: white;
+  padding: 20px 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin-left: 20px;
+  font-weight: 500;
+  transition: 0.3s;
+}
+
+nav a:hover {
+  color: #3498db;
+}
+
+/* 2. Estilos de la Sección de Bienvenida (Hero) */
+.hero {
+  text-align: center;
+  padding: 60px 20px;
+  background-color: white;
+  border-bottom: 2px solid #e0e0e0;
+}
+
+.hero h1 {
+  font-size: 36px;
+  color: #2980b9;
+  margin-bottom: 10px;
+}
+
+.hero p {
+  font-size: 18px;
+  color: #666;
+  max-width: 600px;
+  margin: 0 auto 30px;
+}
+
+.btn-accion {
+  background-color: #e74c3c;
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.btn-accion:hover {
+  background-color: #c0392b;
+  transform: scale(1.05);
+}
+
+/* 3. Estilos de las Tarjetas de Intereses */
+.intereses {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  padding: 50px 20px;
+  flex-wrap: wrap; /* Permite que se adapte en pantallas pequeñas */
+}
+
+.tarjeta {
+  background-color: white;
+  padding: 30px;
+  width: 250px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  text-align: center;
+  border-top: 5px solid #3498db;
+  transition: 0.3s;
+}
+
+.tarjeta:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+}
+
+/* 4. Estilos del Pie de Página */
+footer {
+  background-color: #2c3e50;
+  color: #bdc3c7;
+  text-align: center;
+  padding: 15px;
+  margin-top: 20px;
+}
