@@ -30,19 +30,19 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 *   **Descripción**: En esta lección, descubriremos la estructura HTML inicial que toda página web posee, y aprenderemos para qué sirven sus herramientas: las etiquetas, el contenido y los atributos.
 *   **Enlace**: [Ver la lección](https://youtu.be/TKKxc7KVRtw)
 *   **Consejos clave**: Al abrir una etiqueta HTML, recuerda siempre cerrarla.
-*   **Práctica**: [Clic para programar](https://codepen.io/pen/?template=your-starter)
+*   **Práctica**: [Clic para programar en CodePen](https://codepen.io/pen/?template=your-starter)
 
 ### 🖼️ Lección 3: Dándole contenido a la página: Textos, Imágenes y Enlaces (12 min)
 *   **Descripción**: En esta lección se agregarán listas, imágenes y enlaces para que tu página sea interactiva.
 *   **Enlace**: [Ver la lección](https://youtu.be/vKLyDr3T7bI)
 *   **Consejos clave**: Usa las etiquetas `<ul>`, `<img>`, `<a>`.
-*   **Práctica**: [Clic para programar](https://jsfiddle.net/your-fiddle-id)
+*   **Práctica**: [Clic para programar en CodePen](https://codepen.io/pen/)
 
 ### 🎨 Lección 4: Introducción a CSS: ¡Dándole color y estilo! (10 min)
 *   **Descripción**: En esta lección aprenderas a darle estilo a una página web utilizando CSS. Cambia colores, fuentes y personaliza distintos elementos de tu página.
 *   **Enlace**: [Ver la lección](https://youtu.be/rtWYf4CT2-o)
 *   **Consejos clave**: CSS se encarga de la apariencia. Utiliza selectores y propiedades como `background-color`, `font-family` y `color`.
-*   **Práctica**: [Aplicar estilo con un clic](https://codepen.io/pen/?template=your-starter)
+*   **Práctica**: [Clic para crear estilos en Codepen](https://codepen.io/pen/?template=your-starter)
 
 ### 📐 Lección 5: Diseño y Bordes (12 min)
 *   **Descripción**: En esta lección se dará una explicación sencilla y práctica sobre cómo darle estructura y forma a nuestra página con CSS.
