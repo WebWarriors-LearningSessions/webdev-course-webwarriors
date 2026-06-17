@@ -73,6 +73,8 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 | 3 | Añadir imágenes | [CodePen](https://jsfiddle.net/your-fiddle-id) |
 | 4 | Estilo de la página | [CodePen](https://codepen.io/your-css-pen) |
 | 5 | Página de perfil | [CodePen](https://replit.com/@your-final-project) |
+| 6 | Página de perfil | [CodePen](https://replit.com/@your-final-project) |
+| 7 | Página de perfil | [CodePen](https://replit.com/@your-final-project) |
 
 ✨ **¡Gracias por completar el curso!** ✨
 
